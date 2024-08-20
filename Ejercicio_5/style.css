@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(99, 0, 0, 0.76);
+    text-align: center;
+}
+
+h1{
+    padding: 4% 0% 3% 0%;
+    background-color: rgb(216, 182, 164);
+
+    color: rgb(37, 37, 37);
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 70px;
+}
+
+#int{
+    padding: 2% 3% 2% 3%;
+
+    font-family: "Quicksand", sans-serif;
+    font-size: 150%;
+    color: azure;
+}
+
+h2{
+    font-family: "Chelsea Market", system-ui;
+    font-size: 200%;
+}
+
+.cont{
+    position: relative;
+    margin: 0% 13% 0% 13%;
+    padding: 10px 5px 10px 5px;
+    background-color: rgb(238, 235, 221);
+    border-radius: 20px;
+
+    font-family: "Quicksand", sans-serif;
+    font-size: 150%;
+}
+
+.txt{
+    margin: 0% 5% 0% 5%;
+    padding: 5% 2% 5% 2%;
+    border-radius: 25px;
+    background-color: rgba(216, 182, 164, 0.39);
+}

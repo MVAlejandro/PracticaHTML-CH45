@@ -1,0 +1,93 @@
+
+body{
+    background-color: rgba(99, 0, 0, 0.76);
+    text-align: center;
+}
+
+h1{
+    padding: 4% 0% 3% 0%;
+    background-color: rgb(216, 182, 164);
+
+    color: rgb(37, 37, 37);
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 70px;
+}
+
+
+div.banner{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+
+h3{
+    font-family: "Chelsea Market", system-ui;
+    font-size: 150%;
+}
+
+h2{
+    font-family: "Chelsea Market", system-ui;
+    font-size: 200%;
+    color: azure;
+}
+
+#bio{
+    padding: 1% 3% 2% 3%;
+    text-align: justify;
+
+    font-family: "Quicksand", sans-serif;
+    font-size: 150%;
+    color: azure;
+}
+
+p{
+    padding: 1% 3% 2% 3%;
+
+    font-family: "Quicksand", sans-serif;
+    font-size: 150%;
+    color: azure;
+}
+
+.cont{
+    position: relative;
+    margin: 0% 13% 0% 13%;
+    padding: 10px 5px 10px 5px;
+    background-color: rgb(238, 235, 221);
+    border-radius: 20px;
+
+    font-family: "Quicksand", sans-serif;
+    font-size: 150%;
+}
+    
+.t-a1, .t-a2, .t-a3{
+    margin: 0 auto;
+    padding: 4%;
+    border-radius: 25px;
+    background-color: rgba(216, 182, 164, 0.39);
+
+    text-align: left;
+}
+
+.s{
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+#enlaces{
+    padding: 2px 0px 2px 0px;
+    margin-bottom: 1%;
+    background-color: black;
+    color: aliceblue;
+}
+
+.links{
+    background-color: aliceblue;
+}
+
+.link{
+    margin: 0 auto;
+}
+
+.l{
+    padding: 0px 10px 0px 10px;
+}

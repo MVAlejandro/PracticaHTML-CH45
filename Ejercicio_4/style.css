@@ -1,0 +1,58 @@
+body{
+    background-color: rgba(99, 0, 0, 0.76);
+    text-align: center;
+}
+
+h1{
+    padding: 4% 0% 3% 0%;
+    background-color: rgb(216, 182, 164);
+
+    color: rgb(37, 37, 37);
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 70px;
+}
+
+#x{
+    padding: 2% 3% 2% 3%;
+}
+
+.cont{
+    position: relative;
+    margin: 0% 13% 0% 13%;
+    padding: 10px 5px 10px 5px;
+    background-color: rgb(238, 235, 221);
+    border-radius: 20px;
+
+    font-family: "Quicksand", sans-serif;
+    font-size: 150%;
+}
+
+h2{
+    font-family: "Chelsea Market", system-ui;
+    font-size: 200%;
+}
+
+.rep, .rec, .car{
+    margin: 0% 5% 0% 5%;
+    padding: 1% 4% 4% 4%;
+    border-radius: 25px;
+    background-color: rgba(216, 182, 164, 0.39);
+
+    text-align: left;
+}
+
+.rec{
+    text-align: justify;
+}
+
+.info{
+    border-left: 1px solid black;
+}
+
+#t-rep, td{
+    padding: 2% 2% 0% 2%;
+}
+
+#t-rec{
+    padding: 0% 2% 0% 10%;
+}
